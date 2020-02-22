@@ -19,6 +19,10 @@ FreeDesktop are the evil entity taking my tilde away. Thankfully their own effor
 ```
 export XDG_CACHE_HOME=~
 export XDG_CONFIG_HOME=~
+export XDG_DATA_HOME=~
+export XDG_RUNTIME_DIR=~
+export XDG_DATA_DIRS=~
+export XDG_CONFIG_DIRS=~
 ```
 
 
