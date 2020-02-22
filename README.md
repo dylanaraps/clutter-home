@@ -27,3 +27,7 @@ export XDG_CONFIG_HOME=~
 - Firefox: `~/.mozilla`
 - OpenSSH: `~/.ssh`
 - GnuPG:   `~/.gnupg`
+- Shells:  `~/.shellrc`
+- xsel:    `~/.xsel.log` (This one is a MUST HAVE)
+- vim:     `~/.vim`
+- BitchX:  `~/.BitchX` (Don't tell your parents)
