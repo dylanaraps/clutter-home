@@ -2,7 +2,7 @@
 
 I'm sick of software keeping itself "nice and tidy" nested in stupid directories with stupid names. I like chaos and knowing deep down inside that anything I need is a single tilde away.
 
-A lot of software are notorious for creating crap in some nested directory structure cluttering your .config. Most of these read an environment variable to fix this egregious behavior.
+A lot of programs are notorious for creating crap in some nested directory structure cluttering your .config. Most of these read an environment variable to fix this egregious behavior.
 
 ```
 ls -la ~ | wc -l
