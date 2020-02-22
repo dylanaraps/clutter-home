@@ -24,10 +24,20 @@ export XDG_CONFIG_HOME=~
 
 ## Good HOME respecting software
 
-- Firefox: `~/.mozilla`
-- OpenSSH: `~/.ssh`
-- GnuPG:   `~/.gnupg`
-- Shells:  `~/.shellrc`
-- xsel:    `~/.xsel.log` (This one is a MUST HAVE)
-- vim:     `~/.vim`
-- BitchX:  `~/.BitchX` (Don't tell your parents)
+- ALSA:     `~/.asoundrc`
+- AzPainer: `~/.azpainter`
+- BitchX:   `~/.BitchX` (Don't tell your parents)
+- Firefox:  `~/.mozilla`
+- GnuPG:    `~/.gnupg`
+- OpenSSH:  `~/.ssh`
+- Shells:   `~/.shellrc`
+- Surf:     `~/.surf`
+- URxvt:    `~/.urxvt`
+- bim:      `~/.biminfo`
+- feh:      `~/.fehbg`
+- nodejs:   `~/.node_repl_history`
+- npm:      `~/.npm`
+- pass:     `~/.password-store`
+- vim:      `~/.vim`
+- weechat:  `~/.weechat`
+- xsel:     `~/.xsel.log` (This one is a MUST HAVE)
