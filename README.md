@@ -1,4 +1,4 @@
-# clutter your home
+# clutter your HOME
 
 I'm sick of software keeping itself "nice and tidy" nested in stupid directories with stupid names. I like chaos and knowing deep down inside that anything I need is a single tilde away.
 
