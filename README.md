@@ -21,3 +21,9 @@ export XDG_CACHE_HOME=~
 export XDG_CONFIG_HOME=~
 ```
 
+
+## Good HOME respecting software
+
+- Firefox: `~/.mozilla`
+- OpenSSH: `~/.ssh`
+- GnuPG:   `~/.gnupg`
