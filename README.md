@@ -28,6 +28,8 @@ export XDG_CONFIG_DIRS=~
 
 ## GOOD HOME respecting software
 
+This page has a list of software that respects your Wife, Children and your HOME: https://wiki.archlinux.org/index.php/XDG_Base_Directory
+
 - ALSA:     `~/.asoundrc`
 - AzPainer: `~/.azpainter`
 - BitchX:   `~/.BitchX` (Don't tell your parents)
@@ -47,6 +49,8 @@ export XDG_CONFIG_DIRS=~
 - xsel:     `~/.xsel.log` (This one is a MUST HAVE)
 
 ## BAD BAD BAD SHAME LIST
+
+This page has a list of software that disrespects your Wife, Children and your HOME: https://wiki.archlinux.org/index.php/XDG_Base_Directory
 
 - ????: `$XDG_CRAP_HOME/jesseduffield` (WHO?)
 - aerc: `$XDG_CRAP_HOME/aerc`
