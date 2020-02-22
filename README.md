@@ -22,7 +22,7 @@ export XDG_CONFIG_HOME=~
 ```
 
 
-## Good HOME respecting software
+## GOOD HOME respecting software
 
 - ALSA:     `~/.asoundrc`
 - AzPainer: `~/.azpainter`
@@ -41,3 +41,23 @@ export XDG_CONFIG_HOME=~
 - vim:      `~/.vim`
 - weechat:  `~/.weechat`
 - xsel:     `~/.xsel.log` (This one is a MUST HAVE)
+
+## BAD BAD BAD SHAME LIST
+
+- ????: `$XDG_CRAP_HOME/jesseduffield` (WHO?)
+- aerc: `$XDG_CRAP_HOME/aerc`
+- berry: `$XDG_CRAP_HOME/berry`
+- bspwm: `$XDG_CRAP_HOME/bspwm`
+- cmus: `$XDG_CRAP_HOME/cmus`
+- falkon: `$XDG_WHERE?/falkon`
+- gh:   `$XDG_CRAP_HOME/fg`
+- glib: `$XDG_CRAP_HOUSE/glib-2.0`
+- grafx2: `$XDG_CRAP_HOME/grafx2`
+- htop: `$XDG_CRAP_HOME/htop`
+- i3: `$XDG_CRAP_HOME/i3`
+- keepassc: `$XDG_CRAP_HOME/keepassc`
+- mpv: `$XDG_CRAP_HOME/mpv`
+- neofetch: `$XDG_CRAP_HOME/neofetch`
+- openbox: `$XDG_CRAP_HOME/openbox`
+- sxhkd: `$XDG_CRAP_HOME/sxhkd`
+- wal: `$XDG_CRAP_HOME/wal`
