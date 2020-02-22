@@ -1,59 +1,23 @@
+# clutter your home
 
-* Freedesktop's XDG environment variables
+I'm sick of software keeping itself "nice and tidy" nested in stupid directories with stupid names. I like chaos and knowing deep down inside that anything I need is a single tilde away.
 
-Freedesktop's XDG env vars^{ [2]} like XDG_CACHE_HOME=~,
+A lot of software are notorious for creating crap in some nested directory structure cluttering your .config. Most of these read an environment variable to fix this egregious behavior.
 
-XDG_CONFIG_HOME=~ and many more is a key to keep
+```
+ls -la ~ | wc -l
+1452
+```
 
-your home directory messy because nine out of ten
-
-software follows them. If they don't follow those
-
-conventions, most of them have a flag to change
-
-paths the software use for something.
+Ah. Perfect. My mind is now clear.
 
 
+## XDG_CRAP_DIR
 
-Make sure to set them as they tend to drastically increase
+FreeDesktop are the evil entity taking my tilde away. Thankfully their own efforts can be used against them to bring chaos and peace back HOME.
 
-the clutter in your home directory.
-
-* More env vars
-
-A lot of Unix tools are notorious for creating dotfiles and cluttering your
-
-.config directory (i3, htop, gtk3 for example). But most of these read an env var
-
-that points to the path of the configuration file or has a flag that
-
-changes some kind of path. Some of these and their
-
-env var/flag will be listed below for your benefit. If something that you use
-
-isn't here, check the man page and make sure to make an issue so people
-
-in the future can benefit too!
-
-
-
-| Tool          | Env var                       | Flag                      |
-
-|---------------+-------------------------------+---------------------------|
-
-| less          | LESSHISTFILE=~                | -                         |
-
-| gnupg         | GNUPGHOME=~                   | -                         |
-
-| readline      | INPUTRC=~                     | -                         |
-
-| ksh^{*}       | ENV=~                         | -                         |
-
-| zsh^{*}       | ZDOTDIR=~                     | -                         |
-
-| dialog        | DIALOGRC=~                    | -                         |
-
-| mail          | MAIL=~                        | -                         |
-
-| shell-history | HISTFILE=~                    | -                         |
+```
+export XDG_CACHE_HOME=~
+export XDG_CONFIG_HOME=~
+```
 
