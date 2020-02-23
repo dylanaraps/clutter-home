@@ -47,6 +47,7 @@ This page has a list of software that respects your Wife, Children and your HOME
 - vim:      `~/.vim`
 - weechat:  `~/.weechat`
 - xsel:     `~/.xsel.log` (This one is a MUST HAVE)
+- Nix:      `~/.nixpkgs`, `~/.nix-profile`, `~/.nix-defexpr`
 
 ## BAD BAD BAD SHAME LIST
 
