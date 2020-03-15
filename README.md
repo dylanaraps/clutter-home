@@ -43,6 +43,7 @@ This page has a list of software that respects your Wife, Children and your HOME
 - bim:      `~/.biminfo`
 - dosbox:   `~/.dosbox`
 - feh:      `~/.fehbg`
+- howl:     `~/.howl`
 - nodejs:   `~/.node_repl_history`
 - npm:      `~/.npm`
 - pass:     `~/.password-store`
