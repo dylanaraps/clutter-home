@@ -35,11 +35,13 @@ This page has a list of software that respects your Wife, Children and your HOME
 - BitchX:   `~/.BitchX` (Don't tell your parents)
 - Firefox:  `~/.mozilla`
 - GnuPG:    `~/.gnupg`
+- Nix:      `~/.nixpkgs`, `~/.nix-profile`, `~/.nix-defexpr`, `~/.nix-channels`
 - OpenSSH:  `~/.ssh`
 - Shells:   `~/.shellrc`
 - Surf:     `~/.surf`
 - URxvt:    `~/.urxvt`
 - bim:      `~/.biminfo`
+- dosbox:   `~/.dosbox`
 - feh:      `~/.fehbg`
 - nodejs:   `~/.node_repl_history`
 - npm:      `~/.npm`
@@ -47,7 +49,6 @@ This page has a list of software that respects your Wife, Children and your HOME
 - vim:      `~/.vim`
 - weechat:  `~/.weechat`
 - xsel:     `~/.xsel.log` (This one is a MUST HAVE)
-- Nix:      `~/.nixpkgs`, `~/.nix-profile`, `~/.nix-defexpr`
 
 ## BAD BAD BAD SHAME LIST
 
